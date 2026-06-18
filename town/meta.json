@@ -2,11 +2,11 @@
   "town_name": "汐入町",
   "town_name_kana": "しおいりちょう",
   "founded_real_date": "2026-06-18",
-  "day": 1,
-  "in_town_date": "2026-04-06",
-  "weekday": "月",
+  "day": 2,
+  "in_town_date": "2026-04-07",
+  "weekday": "火",
   "season": "春",
-  "weather": "晴れ",
+  "weather": "曇りのち雨",
   "narrator": "灯（あかり）",
-  "note": "海辺の小さな町。春のはじまり。海風がまだ少し冷たい。"
+  "note": "海辺の小さな町。春のはじまり。昼から細い雨。傘を貸すこと、借りること。"
 }
